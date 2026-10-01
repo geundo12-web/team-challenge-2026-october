@@ -19,8 +19,8 @@ const participants = [
   {
     id: "mingyeong",
     name: "민경",
-    goal: "30분 운동 · 스쿼트 + 등/복부",
-    memo: "예: 스쿼트 + 등 운동 30분 완료\n예: 스쿼트 + 복부 운동 30분 완료",
+    goal: "스쿼트 30개",
+    memo: "예: 스쿼트 30개 완료",
   },
   {
     id: "jaeseon",
