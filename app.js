@@ -7,7 +7,7 @@ const STORAGE_KEY = "team-challenge-2026-october-records";
 const PENDING_KEY = "team-challenge-2026-october-pending";
 const KOREA_TIME_ZONE = "Asia/Seoul";
 const FAIL_FINE = 2000;
-const ABSENT_FINE = 3000;
+const ABSENT_FINE = 5000;
 
 const participants = [
   {
